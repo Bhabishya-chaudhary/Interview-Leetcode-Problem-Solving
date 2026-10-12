@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
