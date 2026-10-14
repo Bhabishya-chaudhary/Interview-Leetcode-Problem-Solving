@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
