@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3727-maximum-alternating-sum-of-squares) |
