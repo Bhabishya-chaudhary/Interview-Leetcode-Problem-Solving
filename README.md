@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
 | [2104-sum-of-subarray-ranges](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0094-binary-tree-inorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0094-binary-tree-inorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
@@ -222,4 +227,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
