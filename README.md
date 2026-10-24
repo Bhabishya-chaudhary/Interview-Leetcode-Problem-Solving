@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2409-count-days-spent-together) |
 ## Tree
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
