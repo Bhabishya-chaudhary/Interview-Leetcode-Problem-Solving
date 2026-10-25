@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1019-next-greater-node-in-linked-list) |
+| [1254-number-of-closed-islands](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1254-number-of-closed-islands) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0301-remove-invalid-parentheses) |
 | [0909-snakes-and-ladders](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1254-number-of-closed-islands) |
 | [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
 ## Stack
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0094-binary-tree-inorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
