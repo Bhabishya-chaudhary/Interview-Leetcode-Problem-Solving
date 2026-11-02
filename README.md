@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0704-binary-search) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
