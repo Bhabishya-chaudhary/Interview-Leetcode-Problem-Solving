@@ -1,8 +1,13 @@
+//Approach-3 (Use nth_element for Average Sort)
+//T.C : Average O(n) for nth_element
+//S.C : O(1)
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
         int n = nums.size();
+
+        nth_element(begin(nums), begin(nums)+n/2, end(nums)); //O(n) averag
+
         int mid = nums[n/2];
         int moves = 0;
 
