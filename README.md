@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
+| [1882-process-tasks-using-servers](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
