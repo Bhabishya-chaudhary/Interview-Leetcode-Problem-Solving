@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Graph Theory
@@ -153,16 +155,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2409-count-days-spent-together) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0094-binary-tree-inorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0094-binary-tree-inorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
